@@ -1,0 +1,11 @@
+.section1 {
+    /* background-image: url("/images/mbr.jpg"); */
+    background-color: azure;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
